@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there 👋, My name is Peri Tsikrikis
+
+Here are a few projects I am working on at the moment:
+
+
+
 
 <!--
 **peri24/peri24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
